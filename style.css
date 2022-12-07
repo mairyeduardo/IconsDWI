@@ -28,6 +28,10 @@ button {
     margin: 5px;
 }
 
+button:hover{
+    cursor: pointer;
+}
+
 .div2 {
     width: fit-content;
     margin-left: auto;
